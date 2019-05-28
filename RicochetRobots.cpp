@@ -60,7 +60,7 @@ void displayIdentifyingInformationAndInstructions()
 
     // Display Instructions
     cout << "Welcome to Ricochet Robots                                     " << endl
-         << "(\'Ricochet Robot\' is a registered trademark of Hans im Glück " << endl
+         << "(\'Ricochet Robot\' is a registered trademark of Hans im GlÃ¼ck " << endl
          << "Munich, Germany, 1999. The game was created by Alex Randolph.) " << endl
          << endl
          << "The object of the game is to get the designated numbered robot " << endl
